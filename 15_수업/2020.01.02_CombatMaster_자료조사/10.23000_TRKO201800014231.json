@@ -1,0 +1,16 @@
+{
+	"id": "10.23000/TRKO201800014231",
+	"DOI": "10.23000/TRKO201800014231",
+	"URL": "https://doi.org/10.23000/TRKO201800014231",
+	"type": "report",
+	"author": [
+		{ "family":"Son, Seong-Hyeon", "given":"" }
+	],
+	"title":"가상현실(VR) 기반 액션 시뮬레이터 센서 연동 기술 개발",
+	"issued": {
+		"date-parts": [
+			[ 2017, 7 ]
+		]
+	},
+	"publisher":"(주)누믹스미디어웍스"
+}
